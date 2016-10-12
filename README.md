@@ -3,9 +3,9 @@
 ## Key requirements: company needs documentation the salaried employees did or did not get over time each week
 
 ## Models
-- Post -> date:date rationale:text
-x User -> Devise
-x AdminUser -> STI
+- x Post -> date:date rationale:text
+- x User -> Devise
+- x AdminUser -> STI
 
 ## Features:
 - Approval Workflow
